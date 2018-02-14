@@ -1,5 +1,7 @@
 # Coursera-Algorithms-Interview-Questions
 
+This repository contains implementations and solutions to the optional bonus interview questions found in Algorithms Parts [I][1] & [II][2] courses from Princeton on [Coursera][3]. Below you may find the questions and links to solution and explanation files found in this repository. 
+
 ## Part I Questions
 
 ### Union-Find
@@ -82,3 +84,7 @@
     - Describe what happens if you override equals() but not hashCode().
     - Describe what happens if you override hashCode() but implement public boolean equals(OlympicAthlete that) instead of public boolean equals(Object that).
 
+
+[1]: https://www.coursera.org/learn/algorithms-part1 "Algorithms, Part I"
+[2]: https://www.coursera.org/learn/algorithms-part2 "Algorithms, Part II"
+[3]: https://www.coursera.org/ "Coursera"
